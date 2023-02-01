@@ -1,0 +1,1 @@
+DIFPREV=((ValorActual - ValorPrevi) / ValorPrevi) * 100
